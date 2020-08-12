@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Blog](https://img.shields.io/badge/-Blog-gray?style=for-the-badge&logo=Hugo&logoColor=white&link=https://blog.fernandomantoan.com)](https://blog.fernandomantoan.com)
 [![Twitter Badge](https://img.shields.io/badge/-@fernandomantoan-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fernandomantoan)](https://twitter.com/fernandomantoan)
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Geraldo%20Mantoan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandogeraldomantoan)](https://www.linkedin.com/in/fernandogeraldomantoan)
 
